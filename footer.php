@@ -38,7 +38,7 @@
                       Address<span class="text-warning">.</span></h3>
                   <p>Dharti Developerse-2, 2nd floor, yashodhan Building, chandavarkar road, Borivali (West) ,<br>
                       Mumbai - 400092.</p>
-                  
+
 
               </div>
 
@@ -46,11 +46,11 @@
       </div>
       <div style="margin-bottom: -100px;" class="row text-center mr-auto mt-10">
           <div class="col-lg-12">
-          <span class="copyrights-text"> Copyright ©
-              <script>
-                document.write(new Date().getFullYear())
-              </script>  <span class="color-text">Vrindavan</span>, All Rights and Reserved. Powered by <a class="color-text" href="https://www.itarsia.com/" target="_blank"> Itarsia India Limited</a>
-            </span>
+              <span class="copyrights-text"> Copyright ©
+                  <script>
+                      document.write(new Date().getFullYear())
+                  </script> <span class="color-text">Vrindavan</span>, All Rights and Reserved. Powered by <a class="color-text" href="https://www.itarsia.com/" target="_blank"> Itarsia India Limited</a>
+              </span>
           </div>
       </div>
   </footer>
@@ -59,7 +59,7 @@
   <a href="https://wa.me/919099909968" target="_blank" class="phone">
       <img src="assets/images/icon/whatsapp-icon.png" class="my-float1" alt="">
   </a>
-  
+
   </div>
   <!-- JS Vendor, Plugins & Activation Script Files -->
 
@@ -79,6 +79,11 @@
   <script src="assets/js/main.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+  <!-- aos animation link-->
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+      AOS.init();
+  </script>
   </body>
 
   </html>
