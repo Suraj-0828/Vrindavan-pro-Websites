@@ -110,8 +110,8 @@
                                                         <form action="send2.php" method="post" autocomplete="off">
                                                             <div class="input-container">
                                                                 <input required type="text" name="name" id="lettersOnlyInput" class="input" />
-                                                                <label for="">Username</label>
-                                                                <span>Username</span>
+                                                                <label for="">Name</label>
+                                                                <span>Name</span>
                                                             </div>
                                                             <div class="input-container">
                                                                 <input required type="email" name="email" class="input" />
@@ -474,7 +474,7 @@
                                 <img class="img-size" src="assets/images/apartment-map/location-1.png" />
                             </div>
                             <div class="divb">
-                                Metro Station - 220m
+                                Metro Station - 0m
                             </div>
                         </li>
                         <li class="location-bg">
@@ -482,7 +482,7 @@
                                 <img class="img-size" src="assets/images/apartment-map/location-2.png" />
                             </div>
                             <div class="divb">
-                                Railway Station - 2.5kms
+                                Railway Station - 1.2kms
                             </div>
                         </li>
                         <li class="location-bg">
@@ -490,7 +490,7 @@
                                 <img class="img-size" src="assets/images/apartment-map/location-3.png" />
                             </div>
                             <div class="divb">
-                                W.E.H - 3kms
+                                W.E.H - 0m
                             </div>
                         </li>
                         <li class="location-bg">
@@ -498,7 +498,7 @@
                                 <img class="img-size" src="assets/images/apartment-map/location-4.png" />
                             </div>
                             <div class="divb">
-                                Sanjay Gandhi National Park - 2.4kms
+                                Sanjay Gandhi National Park - 1kms
                             </div>
                         </li>
                         <li class="location-bg">
@@ -506,7 +506,7 @@
                                 <img class="img-size" src="assets/images/apartment-map/location-5.png" />
                             </div>
                             <div class="divb">
-                                Hospitals - 2kms
+                                Hospitals - Near by
                             </div>
                         </li>
                         <li class="location-bg">
@@ -514,7 +514,7 @@
                                 <img class="img-size" src="assets/images/apartment-map/location-6.png" />
                             </div>
                             <div class="divb">
-                                Mall - 3.4kms
+                                Mall - Near by
                             </div>
                         </li>
                     </ul>
@@ -536,12 +536,24 @@
             <div class="col-md-5 mt-4">
                 <img src="assets/images/header/xlCollage.png" alt="Multi-story tower">
             </div>
-            <div class="col-md-7" data-aos="fade-left" data-aos-duration="1000">
+            <div class="col-md-7">
                 <div class="right">
                     <ul class="residence">
                         <li>
                             <div class="title color-text design">
                                 Luxurious Living in Dahisar (E).
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icone-text">
+                                <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
+                                <div class="text"> Highway Zero Meter</div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icone-text">
+                                <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
+                                <div class="text"> Meter Zero Meter</div>
                             </div>
                         </li>
                         <li>
@@ -559,7 +571,7 @@
                         <li>
                             <div class="icone-text">
                                 <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
-                                <div class="text"> Spacious 2 & 3 BHK Apartments</div>
+                                <div class="text"> Spacious 1, 2 & 3 BHK Apartments</div>
                             </div>
                         </li>
                         <li>
@@ -632,19 +644,7 @@
                         <li>
                             <div class="icone-text">
                                 <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
-                                <div class="text"> Gargen View Resident</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="icone-text">
-                                <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
-                                <div class="text"> Highway Zero Meter</div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="icone-text">
-                                <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
-                                <div class="text"> Meter Zero Meter</div>
+                                <div class="text"> Garden View Resident</div>
                             </div>
                         </li>
                     </ul>
@@ -708,11 +708,11 @@
                         <div class="information">
                             <i class="fas fa-map-marker-alt"></i>
 
-                            <p style="margin-left: 16px;">Dharti Developerse-2, 2nd floor, yashodhan Building, chandavarkar road, Borivali(West), Mumbai - 400092.</p>
+                            <p style="margin-left: 16px;">Dharti Developerse-2, 4nd floor, <br>Yashodhan Building, Chandavarkar Road, Borivali (West), Mumbai - 400092.</p>
                         </div>
                         <div class="information">
                             <i class="fas fa-envelope"></i> &nbsp &nbsp
-                            <p class="setupgap">&nbspVrindavan@gmail.com</p>
+                            <p class="setupgap">&nbspvrindavan@gmail.com</p>
                         </div>
                         <div class="information">
                             <i class="fas fa-phone"></i>
@@ -743,8 +743,8 @@
                     <h3 class="title color-text design">Contact us</h3>
                     <div class="input-container">
                         <input required type="text" name="name" id="lettersOnlyInput" class="input" />
-                        <label for="">Username</label>
-                        <span>Username</span>
+                        <label for="">Name</label>
+                        <span>Name</span>
                     </div>
                     <div class="input-container">
                         <input required type="email" name="email" class="input" />

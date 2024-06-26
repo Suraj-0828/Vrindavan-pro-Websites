@@ -826,10 +826,6 @@
     bottom: 0;
     left: 0;
   }
-
-  img {
-    border-radius: 10px;
-  }
 }
 
 .contact-size {
@@ -1254,4 +1250,7 @@
 }
 .location-box{
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+.margin-left{
+  margin-left: 50px;
 }

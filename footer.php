@@ -17,11 +17,12 @@
                   </div>
 
               </div>
-              <div class="hide-on-mobile col-md-1">
+              <!-- <div class="hide-on-mobile col-md-1">
 
-              </div>
+              </div> -->
 
               <div class="hide-on-mobile col-md-3 media-quick-link-padding">
+              <div class="margin-left">
                   <h3 class="font-lora font-normal design text-[32px] leading-[1.222] color-text mb-[20px] lg:mb-[30px]">
                       Quick Link<span class="text-warning">.</span></h3>
                   <ul class="leading-none ">
@@ -33,13 +34,14 @@
                       <li class="mb-[20px]"><a class="inline-block transition-all text-black hover:text-secondary" href="#contact">Contact</a></li>
                   </ul>
               </div>
-              <div class="col-md-3">
+              </div>
+              <div class="col-md-4">
+                <div class="margin-left">
                   <h3 class="font-lora font-normal text-[32px] color-text design leading-[1.222] text-black mb-[20px] lg:mb-[30px]">
                       Address<span class="text-warning">.</span></h3>
-                  <p>Dharti Developerse-2, 2nd floor, yashodhan Building, chandavarkar road, Borivali (West) ,<br>
+                  <p>Dharti Developerse-2, 4nd floor,<br> yashodhan Building, Chandavarkar Road, <br>Borivali (West) ,
                       Mumbai - 400092.</p>
-
-
+                </div>
               </div>
 
           </div>
