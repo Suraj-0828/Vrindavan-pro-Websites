@@ -400,7 +400,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center color-text design">
                     <h2>Explore Our Floor Plans</h2>
-                    <p>Home Design Gallery :)</p>
+                    <p>Home Design Gallery </p>
                 </div>
             </div>
             <div class="portfolio-menu mt-2 mb-4">
@@ -553,7 +553,7 @@
                         <li>
                             <div class="icone-text">
                                 <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
-                                <div class="text"> Meter Zero Meter</div>
+                                <div class="text"> Metro Zero Meter</div>
                             </div>
                         </li>
                         <li>
@@ -712,27 +712,27 @@
                         </div>
                         <div class="information">
                             <i class="fas fa-envelope"></i> &nbsp &nbsp
-                            <p class="setupgap">&nbspvrindavan@gmail.com</p>
+                            <a href="mailto:andanikrish1@gmail.com" class="setupgap text-black">&nbspandanikrish1@gmail.com</p>
                         </div>
                         <div class="information">
                             <i class="fas fa-phone"></i>
-                            <a href="https://wa.me/919099909968" class="text-black" target="_blank">&nbsp &nbsp 9099-9099-68</a>
+                            <a href="https://wa.me/919099909968" class="text-black setupgap" target="_blank">&nbsp &nbsp +91-9099-9099-68</a>
                         </div>
                     </div>
 
                     <div class="social-media">
                         <p>Connect with us :</p>
                         <div class="social-icons">
-                            <a href="#">
+                            <a href="javascript:void(0)">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
-                            <a href="#">
+                            <a href="javascript:void(0)">
                                 <i class="fab fa-twitter"></i>
                             </a>
-                            <a href="#">
+                            <a href="javascript:void(0)">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a href="#">
+                            <a href="javascript:void(0)">
                                 <i class="fab fa-linkedin-in"></i>
                             </a>
                         </div>

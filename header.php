@@ -4,7 +4,7 @@
          <div class="grid grid-cols-12">
              <div class="col-span-12">
                  <div class="flex flex-wrap items-center justify-between">
-                     <a href="index.php" class="block">
+                     <a href="https://dhartidevelopers.co.in/vrindavan" class="block">
                          <img class="w-full h-full" src="assets/images/logoo/logo.png" loading="lazy" width="99" height="46" alt="brand logo">
                      </a>
                      <nav class="flex flex-wrap items-center">

@@ -3,7 +3,7 @@
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
-    $to = 'suraj.itarsia@gmail.com';
+    $to = 'andanikrish1@gmail.com';
     $subject = 'Contact Us - Form Enquiry';
 
 
@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
-    $headers .= 'From: Contact Us <dhartidevelopers@no-reply.com>' . "\r\n";
+    $headers .= 'From: Contact Us <no-reply@dhartidevelopers.com>' . "\r\n";
 
     header('Content-Type: application/json');
 

@@ -94,39 +94,39 @@
         <div class="grid grid-cols-12">
             <div class="col-span-12">
                 <div class="flex flex-wrap items-center justify-between">
-                    <a href="index.php" class="block">
+                    <a href="https://dhartidevelopers.co.in/vrindavan" class="block">
                         <img class="w-full h-full" src="assets/images/logoo/logo.png" loading="lazy" width="99" height="46" alt="brand logo">
                     </a>
                     <nav class="flex flex-wrap items-center">
                         <ul class="hidden lg:flex flex-wrap items-center font-lora text-[16px] xl:text-[18px] leading-none text-black">
                             <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
 
-                                <a href="index.php" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">Home</a>
+                                <a href="https://dhartidevelopers.co.in/vrindavan" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">Home</a>
 
 
                             </li>
                             <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
 
-                                <a href="index.php" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">About us</a>
+                                <a href="https://dhartidevelopers.co.in/vrindavan" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">About us</a>
 
 
 
                             </li>
                             <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
 
-                                <a href="index.php" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">Amenities</a>
+                                <a href="https://dhartidevelopers.co.in/vrindavan" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">Amenities</a>
 
                             </li>
 
                             <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
 
-                                <a href="index.php" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">Near by</a>
+                                <a href="https://dhartidevelopers.co.in/vrindavan" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">Near by</a>
 
 
                             </li>
                             <li class="mr-7 xl:mr-[40px] relative group py-[20px]">
 
-                                <a href="index.php" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">Contact</a>
+                                <a href="https://dhartidevelopers.co.in/vrindavan" style="font-size: 25px;" class="transition-all text-black hover:text-secondary">Contact</a>
 
                             </li>
                         </ul>
@@ -166,25 +166,25 @@
         <nav class="offcanvas-menu mr-[20px]">
             <ul>
                 <li class="relative block border-b-black border-b first:border-t first:border-t-black">
-                    <a href="index.php" class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Home</a>
+                    <a href="https://dhartidevelopers.co.in/vrindavan" class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Home</a>
 
                 </li>
                 <li class="relative block border-b-primary border-b">
-                    <a href="index.php" class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">About
+                    <a href="https://dhartidevelopers.co.in/vrindavan" class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">About
                         us</a>
 
 
                 </li>
                 <li class="relative block border-b-primary border-b">
-                    <a href="index.php" class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Amenities</a>
+                    <a href="https://dhartidevelopers.co.in/vrindavan" class="block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Amenities</a>
 
                 </li>
-                <li class="relative block border-b-primary border-b"><a href="index.php" class="relative block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Near
+                <li class="relative block border-b-primary border-b"><a href="https://dhartidevelopers.co.in/vrindavan" class="relative block capitalize font-normal text-black hover:text-secondary text-base my-2 py-1 px-5">Near
                         by</a>
                 </li>
 
 
-                <li class="relative block border-b-primary border-b"><a href="index.php" class="relative block capitalize text-black hover:text-secondary text-base my-2 py-1 px-5">Contact</a>
+                <li class="relative block border-b-primary border-b"><a href="https://dhartidevelopers.co.in/vrindavan" class="relative block capitalize text-black hover:text-secondary text-base my-2 py-1 px-5">Contact</a>
                 </li>
             </ul>
         </nav>
