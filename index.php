@@ -268,8 +268,7 @@
 
 
     <!-- Explore Amenities Start-->
-    <section id="amenities" data-aos="fade-up"
-    data-aos-anchor-placement="top-bottom" data-aos-duration="3000" class="popular-properties py-[80px] lg:py-[120px]">
+    <section id="amenities" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="3000" class="popular-properties py-[80px] lg:py-[120px]">
         <div class="container">
             <div class="grid grid-cols-12">
                 <div class="col-span-12">
@@ -458,10 +457,9 @@
     <div id="nearby" class="container building-status location-box mt-10">
         <div class="row mr-auto mb-10">
             <div class="col-md-7 map-location p-4">
-                <iframe class="map-location-media" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.879551557341!2d72.86186287425615!3d19.244080446676325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b0c2a45e3f91%3A0x6b522c1a1e14fd0b!2sOvaripada%20Metro%20Station!5e0!3m2!1sen!2sin!4v1718632862450!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="map-location-media" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.912105696761!2d72.863926!3d19.242662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b0c2cfcae4b5%3A0xb4c4f783f17d0363!2s185-2A%2C%20Western%20Express%20Hwy%2C%20above%20Metro%20square%20commercial%20spaces%2C%20Ovaripada%2C%20Borivali%20East%2C%20Mumbai%2C%20Maharashtra%20400066!5e0!3m2!1sen!2sin!4v1719860355318!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
-            <div class="col-md-5" data-aos="fade-up"
-            data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+            <div class="col-md-5" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
                 <div class="div1">
                     <ul>
                         <li class="location-bg">
