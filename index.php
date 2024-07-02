@@ -274,7 +274,7 @@
                 <div class="col-span-12">
                     <div class="flex flex-col items-center justify-center mb-[50px]">
                         <h2 class="font-lora color-text design bold-text text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
-                            Amenities<span class="text-warning">.</span></h2>
+                            Amenities.</h2>
                     </div>
                 </div>
             </div>
@@ -289,8 +289,7 @@
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Buddha Statue
                                         </span>
-                                        <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Zen Garden</p>
+                                        
                                     </div>
                                 </a>
                             </div>
@@ -301,8 +300,7 @@
                                     <img src="assets/images/Amenities/a2.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Sun Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Seating Area</span>
-                                        <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Telescopes </p>
+                                        
                                     </div>
                                 </a>
                             </div>
@@ -314,8 +312,7 @@
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Lounge
                                         </span>
-                                        <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Greenery</p>
+                                       
                                     </div>
                                 </a>
                             </div>
@@ -327,8 +324,7 @@
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Seating
                                         </span>
-                                        <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Pergola</p>
+                                        
                                     </div>
                                 </a>
                             </div>
@@ -339,8 +335,7 @@
                                     <img src="assets/images/Amenities/a5.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Aerial View of Rooftop</span>
-                                        <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Amenities</p>
+                                        
                                     </div>
                                 </a>
                             </div>
@@ -351,8 +346,7 @@
                                     <img src="assets/images/Amenities/a6.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Luxurious Building</span>
-                                        <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Lobby</p>
+                                        
                                     </div>
                                 </a>
                             </div>
@@ -364,8 +358,7 @@
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Game
                                             Place</span>
-                                        <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Chess / Carom</p>
+                                        
                                     </div>
                                 </a>
                             </div>
@@ -376,8 +369,7 @@
                                     <img src="assets/images/Amenities/a8.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Children's Play Area</span>
-                                        <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Slides</p>
+                                        
                                     </div>
                                 </a>
                             </div>
