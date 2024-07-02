@@ -285,12 +285,12 @@
                         <div class="swiper-slide text-center">
                             <div class="relative group">
                                 <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/8.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                    <img src="assets/images/Amenities/a1.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Kids
+                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Buddha Statue
                                         </span>
                                         <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Play Ground</p>
+                                            Zen Garden</p>
                                     </div>
                                 </a>
                             </div>
@@ -298,12 +298,11 @@
                         <div class="swiper-slide text-center">
                             <div class="relative group">
                                 <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/11.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Sun Francisco">
+                                    <img src="assets/images/Amenities/a2.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Sun Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Meeting
-                                            Place</span>
+                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Seating Area</span>
                                         <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            portfolio </p>
+                                            Telescopes </p>
                                     </div>
                                 </a>
                             </div>
@@ -311,12 +310,12 @@
                         <div class="swiper-slide text-center">
                             <div class="relative group">
                                 <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/4.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Washington D.C.">
+                                    <img src="assets/images/Amenities/a3.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Washington D.C.">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Fitness
+                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Lounge
                                         </span>
                                         <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            jogging Track</p>
+                                            Greenery</p>
                                     </div>
                                 </a>
                             </div>
@@ -324,12 +323,12 @@
                         <div class="swiper-slide text-center">
                             <div class="relative group">
                                 <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/5.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                    <img src="assets/images/Amenities/a4.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Soothes
+                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Seating
                                         </span>
                                         <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Reflex ology corner</p>
+                                            Pergola</p>
                                     </div>
                                 </a>
                             </div>
@@ -337,12 +336,11 @@
                         <div class="swiper-slide text-center">
                             <div class="relative group">
                                 <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/3.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
+                                    <img src="assets/images/Amenities/a5.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Sway
-                                            into bliss</span>
+                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Aerial View of Rooftop</span>
                                         <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Swing graden</p>
+                                            Amenities</p>
                                     </div>
                                 </a>
                             </div>
@@ -350,11 +348,11 @@
                         <div class="swiper-slide text-center">
                             <div class="relative group">
                                 <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/7.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
+                                    <img src="assets/images/Amenities/a6.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Yoga</span>
+                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Luxurious Building</span>
                                         <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Yoga deck</p>
+                                            Lobby</p>
                                     </div>
                                 </a>
                             </div>
@@ -362,7 +360,7 @@
                         <div class="swiper-slide text-center">
                             <div class="relative group">
                                 <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/10.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
+                                    <img src="assets/images/Amenities/a7.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
                                         <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Game
                                             Place</span>
@@ -375,12 +373,11 @@
                         <div class="swiper-slide text-center">
                             <div class="relative group">
                                 <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/6.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
+                                    <img src="assets/images/Amenities/a8.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
                                     <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Bench
-                                            Seating</span>
+                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Children's Play Area</span>
                                         <p class="font-light text-[14px] capitalize text-secondary transition-all leading-none">
-                                            Senior citizen corner / Bench Seating</p>
+                                            Slides</p>
                                     </div>
                                 </a>
                             </div>
@@ -477,14 +474,6 @@
                         </li>
                         <li class="location-bg">
                             <div class="diva">
-                                <img class="img-size" src="assets/images/apartment-map/location-2.png" />
-                            </div>
-                            <div class="divb">
-                                Railway Station - 1.2kms
-                            </div>
-                        </li>
-                        <li class="location-bg">
-                            <div class="diva">
                                 <img class="img-size" src="assets/images/apartment-map/location-3.png" />
                             </div>
                             <div class="divb">
@@ -496,15 +485,23 @@
                                 <img class="img-size" src="assets/images/apartment-map/location-4.png" />
                             </div>
                             <div class="divb">
-                                Sanjay Gandhi National Park - 1kms
+                                National Park - 1kms
                             </div>
                         </li>
                         <li class="location-bg">
                             <div class="diva">
-                                <img class="img-size" src="assets/images/apartment-map/location-5.png" />
+                                <img class="img-size" src="assets/images/apartment-map/location-2.png" />
                             </div>
                             <div class="divb">
-                                Hospitals - Near by
+                                Dahisar Railway Station - 0.8kms
+                            </div>
+                        </li>
+                        <li class="location-bg">
+                            <div class="diva">
+                                <img class="img-size" src="assets/images/apartment-map/location-2.png" />
+                            </div>
+                            <div class="divb">
+                                Borivali Railway Station - 1.2kms
                             </div>
                         </li>
                         <li class="location-bg">
@@ -515,6 +512,15 @@
                                 Mall - Near by
                             </div>
                         </li>
+                        <li class="location-bg">
+                            <div class="diva">
+                                <img class="img-size" src="assets/images/apartment-map/location-5.png" />
+                            </div>
+                            <div class="divb">
+                                Hospitals - Near by
+                            </div>
+                        </li>
+
                     </ul>
                 </div>
             </div>
@@ -603,12 +609,7 @@
                                 <div class="text"> High Speed Elevators</div>
                             </div>
                         </li>
-                        <li>
-                            <div class="icone-text">
-                                <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
-                                <div class="text"> Double Height Entrance Lobby</div>
-                            </div>
-                        </li>
+
                         <li>
                             <div class="icone-text">
                                 <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
