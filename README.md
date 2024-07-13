@@ -11,5 +11,12 @@ use the css animation for -> AOS Animation
 ![aos-animation2](https://github.com/Suraj-0828/Vrindavan-pro/assets/134250774/36404dd8-5b90-4159-8cc4-fdc7249aa5d7)
 
 
+# Desktop View 
 
 ![image](https://github.com/user-attachments/assets/ebe6c602-6da1-47b3-b43b-e7735095c130)
+
+# Mobile View
+
+![image](https://github.com/user-attachments/assets/fa6542a3-9ddc-420a-adaf-9927889f81b2)
+
+
