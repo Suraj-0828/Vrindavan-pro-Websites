@@ -13,7 +13,8 @@ use the css animation for -> AOS Animation
 
 # Desktop View 
 
-![image](https://github.com/user-attachments/assets/ebe6c602-6da1-47b3-b43b-e7735095c130)
+![image](https://github.com/user-attachments/assets/6bf96f43-1c84-411d-bba4-330aa8c31770)
+
 
 # Mobile View
 
