@@ -268,117 +268,216 @@
 
 
     <!-- Explore Amenities Start-->
-    <section id="amenities" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="3000" class="popular-properties py-[80px] lg:py-[120px]">
-        <div class="container">
-            <div class="grid grid-cols-12">
+    <section id="amenities" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="3000" class="popular-properties new-update-1 py-[80px] lg:py-[120px]">
+        <div class="center-section">
+            <div class="container">
+                <div class="grid grid-cols-12">
+                    <div class="col-span-12">
+                        <div class="flex flex-col items-center justify-center mb-[50px]">
+                            <h2 class="font-lora color-text design bold-text text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
+                                Amenities
+                            </h2>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-span-12">
-                    <div class="flex flex-col items-center justify-center mb-[50px]">
-                        <h2 class="font-lora color-text design bold-text text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
-                            Amenities.</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-span-12">
-                <div class="all-properties properties-tab-content active">
-                    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-[30px]">
-
-                        <div class="swiper-slide text-center">
-                            <div class="relative group">
-                                <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/a1.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
-                                    <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Buddha Statue
-                                        </span>
-                                        
-                                    </div>
-                                </a>
+                    <div class="all-properties properties-tab-content active">
+                        <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-[30px]">
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/Amenities/a1.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Buddha Statue</span>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide text-center">
-                            <div class="relative group">
-                                <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/a2.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Sun Francisco">
-                                    <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Seating Area</span>
-                                        
-                                    </div>
-                                </a>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/Amenities/a2.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Sun Francisco">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Seating Area</span>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide text-center">
-                            <div class="relative group">
-                                <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/a3.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Washington D.C.">
-                                    <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Lounge
-                                        </span>
-                                       
-                                    </div>
-                                </a>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/Amenities/a4.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Seating</span>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide text-center">
-                            <div class="relative group">
-                                <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/a4.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
-                                    <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Rooftop Seating
-                                        </span>
-                                        
-                                    </div>
-                                </a>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/Amenities/a5.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Aerial View of Rooftop</span>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide text-center">
-                            <div class="relative group">
-                                <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/a5.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
-                                    <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Aerial View of Rooftop</span>
-                                        
-                                    </div>
-                                </a>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/Amenities/a6.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Luxurious Building</span>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide text-center">
-                            <div class="relative group">
-                                <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/a6.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
-                                    <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Luxurious Building</span>
-                                        
-                                    </div>
-                                </a>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/Amenities/a7.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Game Place</span>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide text-center">
-                            <div class="relative group">
-                                <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/a7.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
-                                    <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Game
-                                            Place</span>
-                                        
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="swiper-slide text-center">
-                            <div class="relative group">
-                                <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
-                                    <img src="assets/images/Amenities/a8.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
-                                    <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
-                                        <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Children's Play Area</span>
-                                        
-                                    </div>
-                                </a>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/Amenities/a8.jpeg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="Francisco">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[18px] color-text transition-all leading-none">Children's Play Area</span>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
+        </div>
+    </section>
+    <!-- Explore Amenities End-->
 
+     <!-- Explore Amenities Start-->
+     <section id="amenities" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="3000" class="popular-properties new-update-1 py-[80px] lg:py-[120px]">
+        <div class="center-section">
+            <div class="container">
+                <div class="grid grid-cols-12">
+                    <div class="col-span-12">
+                        <div class="flex flex-col items-center justify-center mb-[50px]">
+                            <h2 class="font-lora color-text design bold-text text-[24px] sm:text-[30px] xl:text-xl capitalize font-medium">
+                            Some of Our Completed Project
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-span-12">
+                    <div class="all-properties properties-tab-content active">
+                        <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-[30px]">
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/completed-project/p1.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[14px] color-text transition-all leading-none">SHREE SIDDHIVINAYAK CHS Kandivali-(W)</span>
+                                            <p class="color-text new-update-2">Residential</p>
+                                            <p class="color-text">Built up Area - 44,000 sq.ft.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/completed-project/p1.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[14px] color-text transition-all leading-none">GOMES INDUSTRIAL ESTATE (Industrial)</span>
+                                            <p class="color-text new-update-2">Sakinaka , Andheri-(w)</p>
+                                            <p class="color-text">Built up Area - 75,000 sq.ft.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/completed-project/p1.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[14px] color-text transition-all leading-none">NOOPUR APARTMENT Link Road , Andheri-(w)</span>
+                                            <p class="color-text new-update-2">Residential</p>
+                                            <p class="color-text">Built up Area - 35,000 sq.ft.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/completed-project/p1.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[14px] color-text transition-all leading-none">NAND DHAM , Kandivali-(w)</span>
+                                            <p class="color-text new-update-2">Residential + Commercial</p>
+                                            <p class="color-text">Built up Area - 60,000 sq.ft.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/completed-project/p1.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[14px] color-text transition-all leading-none">SRA BUILDING For Shri Pakkiza CHSL , Kandivali-(w)</span>
+                                            <p class="color-text new-update-2">Residential</p>
+                                            <p class="color-text">Built up Area - 1,00,000 sq.ft.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/completed-project/p1.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[14px] color-text transition-all leading-none">VRAJ DHAM BUILDING Link Road , Kandivali-(w)</span>
+                                            <p class="color-text new-update-2">Residential</p>
+                                            <p class="color-text">Built up Area - 1,15,000 sq.ft.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/completed-project/p1.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[14px] color-text transition-all leading-none">TGN SQUARE , Borivali-(w)</span>
+                                            <p class="color-text new-update-2">Commercial</p>
+                                            <p class="color-text">Built up Area - 44,000 sq.ft.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide text-center">
+                                <div class="relative group">
+                                    <a class="modal-trigger" href="javascript:void(0)" class="block group-hover:shadow-[0_10px_15px_0px_rgba(0,0,0,0.1)] transition-all duration-300">
+                                        <img src="assets/images/completed-project/p1.jpg" class="w-full h-full block mx-auto rounded-[6px]" loading="lazy" width="270" height="380" alt="New York">
+                                        <div class="bg-[rgb(255,253,252,0.9)] rounded-[6px] px-[5px] py-[15px] absolute group-hover:bottom-[25px] group-hover:opacity-100 bottom-[0px] opacity-0 left-[25px] right-[25px] transition-all duration-500">
+                                            <span class="font-lora font-normal text-[14px] color-text transition-all leading-none">VRINDAVAN CHSL Borivali-(w)</span>
+                                            <p class="color-text new-update-2">Residential</p>
+                                            <p class="color-text">Built up Area - 44,000 sq.ft.</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <!-- Explore Amenities End-->
 
@@ -446,7 +545,7 @@
     <div id="nearby" class="container building-status location-box mt-10">
         <div class="row mr-auto mb-10">
             <div class="col-md-7 map-location p-4">
-                <iframe class="map-location-media" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.912105696761!2d72.863926!3d19.242662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b0c2cfcae4b5%3A0xb4c4f783f17d0363!2s185-2A%2C%20Western%20Express%20Hwy%2C%20above%20Metro%20square%20commercial%20spaces%2C%20Ovaripada%2C%20Borivali%20East%2C%20Mumbai%2C%20Maharashtra%20400066!5e0!3m2!1sen!2sin!4v1719860355318!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="map-location-media" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.9124889572904!2d72.8637653!3d19.242645299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b1002a76d1bd%3A0xba05e79f11347687!2sVRINDAVAN!5e0!3m2!1sen!2sin!4v1721450834286!5m2!1sen!2sin"" width=" 100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div class="col-md-5" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
                 <div class="div1">
@@ -485,7 +584,7 @@
                                 <img class="img-size" src="assets/images/apartment-map/location-2.png" />
                             </div>
                             <div class="divb">
-                                Dahisar Railway Station - 0.8kms
+                                Dahisar Railway Station - 0.85kms
                             </div>
                         </li>
                         <li class="location-bg">
@@ -573,7 +672,7 @@
                         <li>
                             <div class="icone-text">
                                 <div class="icone"><i class="fa-solid fa-circle-check"></i></div>
-                                <div class="text"> Vastu Compliant Homes</div>
+                                <div class="text"> Vastu complained Homes</div>
                             </div>
                         </li>
                         <li>
@@ -695,15 +794,16 @@
                         perfectly connected to all places.
                     </p>
 
-                    <div class="info">
+                    <div class="info ">
                         <div class="information">
                             <i class="fas fa-map-marker-alt"></i>
 
-                            <p style="margin-left: 16px;">Dharti Developerse-2, 4nd floor, <br>Yashodhan Building, Chandavarkar Road, Borivali (West), Mumbai - 400092.</p>
+                            <p class="text-black" style="margin-left: 16px; margin-bottom: 0px;">Ovaripada, Dahisar East, Mumbai, Maharashtra 400068.</p>
+                            <!-- <p style="margin-left: 16px;">Dharti Developerse-2, 4nd floor, <br>Yashodhan Building, Chandavarkar Road, Borivali (West), Mumbai - 400092.</p> -->
                         </div>
                         <div class="information">
                             <i class="fas fa-envelope"></i> &nbsp &nbsp
-                            <a href="mailto:andanikrish1@gmail.com" class="setupgap text-black">&nbspandanikrish1@gmail.com</p>
+                            <a href="mailto:info@dhartidevelopers.co.in" class="setupgap text-black">&nbspinfo@dhartidevelopers.co.in</p>
                         </div>
                         <div class="information">
                             <i class="fas fa-phone"></i>
@@ -717,15 +817,11 @@
                             <a href="javascript:void(0)">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
-                            <a href="javascript:void(0)">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a href="javascript:void(0)">
+
+                            <a href="https://www.instagram.com/dharti__developers?igsh=MW5oazVlMzVmaGxnaw==">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a href="javascript:void(0)">
-                                <i class="fab fa-linkedin-in"></i>
-                            </a>
+
                         </div>
                     </div>
                 </div>
